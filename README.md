@@ -44,21 +44,20 @@ The study covers data from 2001 to 2023 and includes environmental and anthropog
   - Cooling concentrated in agricultural/water zones (Z-score < -1.96)
   
 #### Significant Cooling Trends (p < 0.05)
-- **Agricultural Areas**:
-  - Rate: `-0.4°C to -0.8°C/year` (Western/Northwestern regions)
-  - Correlation with NDVI: r = 0.72
-- **Water Bodies**:
-  - Rate: `-0.2°C to -0.5°C/year` (Karun River basin)
-  - Persistent cooling since 2005
+- **Agricultural Areas**
+- **Water Bodies**
 
 #### Warming Trends
 - **Localized Hotspots**:
-  - Urban areas: `+0.3°C/year` (Ahvaz industrial zone)
-  - Arid lands: `+0.05°C to +0.2°C/year` (Eastern deserts)
+  - Urban areas
+  - Arid lands
 
 #### Spatial Patterns
-![Trend Map](MMK.jpg)  
-*Figure 2: (a) Z-scores showing cooling (blue) and stable (gray) areas (b) Sen's slope magnitudes*
+<div style="display: flex; justify-content: space-between;">
+  <img src="MMK.jpg" alt="MMK Results" style="width: 35%; height: auto;">
+  <img src="SEN.jpg" alt="Sen's Slope" style="width: 35%; height: auto;">
+</div>
+*Figure 2: Left - Mann-Kendall Z-score indicating trend significance and direction; Right - Sen's slope magnitudes*
 
 #### Land Cover Correlation
 | Land Cover Type       | Avg Slope (°C/year) | Significance |
@@ -67,10 +66,6 @@ The study covers data from 2001 to 2023 and includes environmental and anthropog
 | Water Bodies          | -0.35               | p < 0.05     |
 | Urban Areas           | +0.28               | p < 0.1      |
 | Bare Soil             | +0.12               | Not Significant |
-
-#### Spatial Patterns
-![Trend Map](SEN.jpg)  
-*Sen's slope magnitude across Khuzestan Province*
 
 ## Repository Structure
 
