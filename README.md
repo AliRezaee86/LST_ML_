@@ -57,7 +57,7 @@ The study covers data from 2001 to 2023 and includes environmental and anthropog
   - Arid lands: `+0.05°C to +0.2°C/year` (Eastern deserts)
 
 #### Spatial Patterns
-![Trend Map](figures/trend_results.png)  
+![Trend Map](MMK.jpg)  
 *Figure 2: (a) Z-scores showing cooling (blue) and stable (gray) areas (b) Sen's slope magnitudes*
 
 #### Land Cover Correlation
@@ -69,7 +69,7 @@ The study covers data from 2001 to 2023 and includes environmental and anthropog
 | Bare Soil             | +0.12               | Not Significant |
 
 #### Spatial Patterns
-![Trend Map](path/to/trend_map.png)  
+![Trend Map](SEN.jpg)  
 *Sen's slope magnitude across Khuzestan Province*
 
 ## Repository Structure
