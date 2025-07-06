@@ -1,6 +1,6 @@
 # LST Prediction Framework for Khuzestan Province
 
-This repository contains code for a comprehensive spatiotemporal framework to predict Land Surface Temperature (LST) in Khuzestan Province using satellite data and machine learning techniques, as described in the study titled *"A Spatiotemporal Framework for Land Surface Temperature Prediction Using Machine Learning and Uncertainty Quantification."*
+This repository contains code for a comprehensive spatiotemporal framework to predict Land Surface Temperature (LST) in Khuzestan Province using satellite data and machine learning techniques, as described in the study titled *"Machine Learning Insights into Land Surface Temperature Variability and Prediction: A Spatiotemporal Approach with Feature Importance and Uncertainty Analysis."*
 
 ## Overview
 
