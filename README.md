@@ -241,7 +241,6 @@ For support or inquiries:
 
 ## Citation
 
-If you use this framework in your research, please cite:
 
 ```bibtex
 @article{rezaee2025spatiotemporal,
