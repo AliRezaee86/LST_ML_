@@ -4,6 +4,7 @@ This repository contains code for a comprehensive spatiotemporal framework to pr
 
 ## Overview
 
+
 The project leverages:
 - Google Earth Engine (GEE) for data collection
 - Machine learning models (Random Forest, XGBoost, Multiple Linear Regression) for LST prediction
