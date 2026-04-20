@@ -251,7 +251,6 @@ For support or inquiries:
   author={Ali Rezaee, Mohammad Reza Goodarzi, Seyed Mohammad Alavizadeh & Mojtaba Goldani},
   journal={Environmental Monitoring and Assessment},
   volume={198},
-  link={[XXX--XXX](https://link.springer.com/article/10.1007/s10661-026-15205-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260420&utm_content=10.1007%2Fs10661-026-15205-4#auth-Mojtaba-Goldani-Aff2)},
   year={2026},
   publisher={Springer}
 }
